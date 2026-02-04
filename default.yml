@@ -11,3 +11,5 @@ org_settings:
     org_name: Fleet
   secrets:
     - secret: "REPLACE_WITH_ENVIRONMENT_VARIABLE"
+labels:
+  - path: ./lib/all/labels/global_label.yml
