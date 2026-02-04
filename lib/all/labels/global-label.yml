@@ -2,3 +2,9 @@
   description: Hosts belonging to test
   label_membership_type: manual
   hosts:
+- name: Engineering department
+  description: Hosts used by engineers
+  label_membership_type: host_vitals
+  criteria:
+    vital: end_user_idp_department
+    value: Engineering
