@@ -12,4 +12,4 @@ org_settings:
   secrets:
     - secret: "REPLACE_WITH_ENVIRONMENT_VARIABLE"
 labels:
-  - path: ../lib/all/labels/global_label.yml
+  - path: ./lib/all/labels/global_label.yml
