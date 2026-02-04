@@ -1,0 +1,4 @@
+- name: Test label
+  description: Hosts belonging to test
+  label_membership_type: manual
+  hosts:
